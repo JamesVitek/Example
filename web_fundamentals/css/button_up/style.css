@@ -1,0 +1,26 @@
+.search_button {
+    color:rgb(41, 170, 170);
+    border-color: rgb(41, 170, 170);
+    width: 100px;
+    border-radius: 15px;
+    margin: 4px 2px;
+    text-align: center;
+    box-shadow: 0;
+}
+.plus_button {
+    color:white;
+    background-color: rgb(41, 170, 170);
+    border-color: rgb(41, 170, 170);
+    border-radius: 50%;
+    text-align: center;
+    height: 35px;
+    width: 35px;
+}
+.create_account {
+    color:white;
+    background-color:royalblue;
+    text-align: center;
+    height: 35px;
+    width: 150px;
+    box-shadow: 10px 5px 5px black;
+}

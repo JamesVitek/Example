@@ -1,0 +1,26 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    margin: 10px;
+    text-indent: 10px;
+    text-align: left;
+    color: aqua;
+    background-color: black;
+}
+span.my {
+    color:white
+}
+h2 {
+    margin: 10px;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
+h3 {
+    margin: 10px;
+    text-align: right;
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    background-color: lightskyblue;
+}

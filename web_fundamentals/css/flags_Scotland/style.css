@@ -1,0 +1,23 @@
+.main {
+    height: 600px;
+    width: 900px;
+    background-color: navy;
+}
+.sub-content {
+    height: 1200px;
+    width: 100px;
+    background-color: white;
+    position: absolute;
+    bottom: 425px;
+    left: 450px;
+    transform: rotate(58deg);
+}
+.sub-content-two {
+    height: 1200px;
+    width: 100px;
+    background-color: white;
+    position: absolute;
+    bottom: 365px;
+    left: 450px;
+    transform: rotate(122deg);
+}
